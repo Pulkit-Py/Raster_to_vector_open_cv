@@ -1,0 +1,2 @@
+# Raster_to_vector_open_cv
+How to create cartoon effect on image using python. Here we are using openCV and numpy to create cartoon effect using python.   Commands:  pip install opencv-python pip install numpy  For Your Support:- *Subscribe  PULKIT.py   *Channel Link:- https://www.youtube.com/results?search_query=pulkit.py  *Follow me on Instagram:- https://www.instagram.com/pulkit_py/  *Github link:- https://github.com/Pulkit-Py  *Facebook Page :- www.facebook.com/pulkitpy
